@@ -1,0 +1,1 @@
+This is a simple Stage editor for Castlevania SotN. It currently is focused on editing the tilemap layers of stages. This can be combined with other tools and techniques for making mods. Programmed in C and uses the Allegro 4.2 runtime currently.
